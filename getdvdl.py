@@ -1,3 +1,6 @@
+# Original code from AMBER tutorial: Small molecule binding to T4-lysozyme L99A
+# Modified by Shivani Verma to analyse the data from *.out files
+
 import math
 from collections import OrderedDict
 
